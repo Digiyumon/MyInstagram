@@ -1,6 +1,6 @@
-# Project 3 - *Fakestragram*
+# Project 3 - *Fakestagram*
 
-**Name of your app** is a photo sharing app similar to Instagram but using Parse as its backend.
+Fakestagram is a photo sharing app similar to Instagram but using Parse as its backend.
 
 Time spent: **3** hours spent in total
 
